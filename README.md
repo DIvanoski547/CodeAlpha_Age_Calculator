@@ -14,7 +14,7 @@ The Age Calculator is a simple web application that allows users to calculate th
 - **JavaScript**
 
 ## How to Use
- 1. Open the `index.html` file in a web browser.
+ 1. Open the **`index.html`** file in a web browser.
  2. Select your date of birth using the date picker.
  3. Click the "Calculate your age" button.
  4. Your age will be displayed below the button.
