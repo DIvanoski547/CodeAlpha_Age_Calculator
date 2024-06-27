@@ -4,14 +4,14 @@
 The Age Calculator is a simple web application that allows users to calculate their age based on their date of birth. The application is designed with a user-friendly interface and provides the age in years, months, and days.
 
 ## Features
- **Date Input:** Users can input their date of birth using a date picker.
- **Age Calculation:** The application calculates the user's age in years, months, and days.
- **Responsive Design:** The application is styled with CSS to ensure a responsive and visually appealing interface.
+- **Date Input:** Users can input their date of birth using a date picker.
+- **Age Calculation:** The application calculates the user's age in years, months, and days.
+- **Responsive Design:** The application is styled with CSS to ensure a responsive and visually appealing interface.
 
 ## Technologies Used
- **HTML**
- **CSS**
- **JavaScript**
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 ## How to Use
  1. Open the `index.html` file in a web browser.
@@ -20,9 +20,9 @@ The Age Calculator is a simple web application that allows users to calculate th
  4. Your age will be displayed below the button.
 
 ## Project Structure
-**`index.html`**: The main HTML file containing the structure of the web application.
-**`style.css`**: The CSS file containing the styles for the web application.
-**`script.js`**: The JavaScript file containing the logic for age calculation.
+- **`index.html`**: The main HTML file containing the structure of the web application.
+- **`style.css`**: The CSS file containing the styles for the web application.
+- **`script.js`**: The JavaScript file containing the logic for age calculation.
 
 ## JavaScript Functionality
 The calculateAge function calculates the user's age based on the selected date of birth.
