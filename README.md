@@ -25,9 +25,9 @@ The Age Calculator is a simple web application that allows users to calculate th
 - **`script.js`**: The JavaScript file containing the logic for age calculation.
 
 ## JavaScript Functionality
-- The "calculateAge" function calculates the user's age based on the selected date of birth.
+- The **`calculateAge`** function calculates the user's age based on the selected date of birth.
 - It handles edge cases such as negative days or months by adjusting the values accordingly.
-- The "getDaysInMonth" helper function is used to determine the number of days in a given month, accounting for leap years.
+- The **`getDaysInMonth`** helper function is used to determine the number of days in a given month, accounting for leap years.
 ## Styling
 - The web application is styled with a gradient background and modern design elements.
 - Input fields and buttons are designed for ease of use and visual appeal.
