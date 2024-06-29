@@ -12,6 +12,9 @@
   background: linear-gradient(135deg, #2e3192, #1bffff);
   padding: 10px;
   color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .calculator-container {
@@ -19,12 +22,17 @@
   max-width: 600px;
   margin: 10% 10%;
 }
+
 .calculator-container h1 {
   font-size: 60px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
 }
 
 .calculator-container h1 span {
   color: blanchedalmond;
+  display: flex;
 }
 
 .input-box {
@@ -73,4 +81,8 @@
 
 #result {
   color: blanchedalmond;
+  font-size: large;
+  display: flex;
+  justify-content: center;
+
 }
